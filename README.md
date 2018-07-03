@@ -1,2 +1,4 @@
-# Hanium_Project
-Study for Hanium project.
+# Summer_Java
+
+2018년 1학기 여름방학.
+프로그램 사관학교 자바 수업
